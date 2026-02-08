@@ -58,8 +58,11 @@ snake-game/
 
 ```bash
 git clone https://github.com/Fayyaz6137/Snake-Game-in-Python.git
+
 cd snake-game
+
 pip install -r requirements.txt
+
 python main.py
 ```
 
